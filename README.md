@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +63,8 @@
       widespread adoption.</li>
   </ul>
 
-  <img src="./images/Cryptocurrency--Exploring-the-Role-of-DLT-in-Digital-Money--Risks-and-Challenges-of-Cryptocurrency.webp"
+  <img
+    src="./images/Cryptocurrency--Exploring-the-Role-of-DLT-in-Digital-Money--Risks-and-Challenges-of-Cryptocurrency.webp"
     height=200 alt="risks of cryptocurrency" title="risks of cryptocurrency">
 
 
@@ -80,7 +80,8 @@
     financial system. However, addressing regulatory and security challenges will be essential for their long-term
     success.</p>
 
-  <img src="./images/compressed_img-QQUo5lt5RDwK1eDliFDzXhlX.png"alt="cryptocurrency"title="cryptocurrency" height="210">
+  <img src="./images/compressed_img-QQUo5lt5RDwK1eDliFDzXhlX.png" alt="cryptocurrency" title="cryptocurrency"
+    height="210">
 
 </body>
 
